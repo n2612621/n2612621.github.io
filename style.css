@@ -1,7 +1,7 @@
 .div-table {
   display: table;
   width: auto;
-  background-color: #eee;      
+  /*background-color: #eee;*/
   border: 1px solid #666666;
   border-spacing: 5px;
 }
@@ -11,8 +11,8 @@
   clear: both;
 }
 .div-table-col {
-  float: left;
+  /*float: left;*/
   display: table-column;
   width: 200px;
-  background-color: #ccc;
+  /*background-color: #ccc;*/
 }
